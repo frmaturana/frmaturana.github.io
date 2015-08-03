@@ -1,0 +1,21 @@
+# IMPORTANT: Set this to false.
+demo: false
+
+# Theme customization is done on this file instead of _config.yml so that
+# you don't have to restart Jekyll to see changes.
+
+photo: "http://static.wixstatic.com/media/2c32f8_a4c99d855e46b557a4b9443971ee7706.jpeg_srz_p_120_114_75_22_0.50_1.20_0.00_jpeg_srz"
+name: "Francisco Maturana"
+copy: "Investigador, Instituto Chileno de Estudios Municipales ICHEM, Universidad Autónoma de Chile. Profesor Part-time: Universidad Alberto Hurtado."
+
+# Color scheme based on http://www.materialui.co/colors.
+# Possible values:
+# - default
+# - red
+# - pink
+# - brown
+# - blue
+# - purple
+# - teal
+# - green
+color: default
