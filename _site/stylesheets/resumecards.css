@@ -3185,7 +3185,7 @@ a {
   text-align: center; }
 
 .panel-body {
-  height: 450px;
+  height: auto;
   overflow: hidden; }
 
 .panel-body-mini {
