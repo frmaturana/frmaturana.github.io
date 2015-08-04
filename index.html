@@ -67,34 +67,34 @@
             </div>
           </div>
         {% endfor %}
-         {% for pico in site.categories.posts reversed %}
+         {% for postdata in site.categories.posts reversed %}
           <div class="col-sm-12">
             <div class="panel panel-default">
               <div class="panel-heading">
-                <h3 class="panel-title">{{ pico.type }}</h3>
+                <h3 class="panel-title">{{ postdata.type }}</h3>
               </div>
               <div class="panel-body">
-                {% if pico.heading %}
+                {% if postdata.heading %}
                   <h4>
-                    {{ pico.heading }}
+                    {{ postdata.heading }}
                   </h4>
                 {% endif %}
-                {% if pico.subheading %}
+                {% if postdata.subheading %}
                   <p class="resume-subheading">
-                    {{ pico.subheading }}
+                    {{ postdata.subheading }}
                   </p>
                 {% endif %}
-                {% if pico.duration %}
+                {% if postdata.duration %}
                   <p class="resume-duration">
                     {{ pico.duration }}
                   </p>
                 {% endif %}
-                {% if pico.location %}
+                {% if postdata.location %}
                   <p class="resume-location">
-                    {{ pico.location }}
+                    {{ postdata.location }}
                   </p>
                 {% endif %}
-                {{ pico.content }}
+                {{ postdata.content }}
               </div>
             </div>
           </div>
