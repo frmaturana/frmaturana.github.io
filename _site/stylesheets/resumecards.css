@@ -3191,7 +3191,14 @@ a {
 .panel-body-mini {
   padding: 15px;
   height: 280px;
-  overflow: hidden; }
+  overflow: hidden;
+  text-align: center; }
+
+.panel-body-links {
+  padding: 15px;
+  height: 120px;
+  overflow: hidden;
+  text-align: center; }
 
 /* Navbar */
 .navbar-default {

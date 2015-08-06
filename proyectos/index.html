@@ -35,46 +35,13 @@
         </div>
       </div>
       <div class="row">
-        {% for card in site.categories.formacion reversed %}
-          <div class="col-sm-4">
-            <div class="panel panel-default">
-              <div class="panel-heading">
-                <h3 class="panel-title">{{ card.type }}</h3>
-              </div>
-              <div class="panel-body-mini">
-                {{ card.content }}
-                {% if card.heading %}
-                  <h4>
-                    {{ card.heading }}
-                  </h4>
-                {% endif %}
-                {% if card.subheading %}
-                  <p class="resume-subheading">
-                    {{ card.subheading }}
-                  </p>
-                {% endif %}
-                {% if card.duration %}
-                  <p class="resume-duration">
-                    {{ card.duration }}
-                  </p>
-                {% endif %}
-                {% if card.location %}
-                  <p class="resume-location">
-                    {{ card.location }}
-                  </p>
-                {% endif %}
-                
-              </div>
-            </div>
-          </div>
-        {% endfor %}
-         {% for postdata in site.categories.posts reversed %}
-          <div class="col-sm-3">
+         {% for postdata in site.categories.proyectos reversed %}
+          <div class="col-sm-12">
             <div class="panel panel-default">
               <div class="panel-heading">
                 <h3 class="panel-title">{{ postdata.type }}</h3>
               </div>
-              <div class="panel-body-links">
+              <div class="panel-body">
                 {% if postdata.heading %}
                   <h4>
                     {{ postdata.heading }}
