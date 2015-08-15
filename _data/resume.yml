@@ -6,7 +6,7 @@ demo: false
 
 photo: "http://static.wixstatic.com/media/2c32f8_a4c99d855e46b557a4b9443971ee7706.jpeg_srz_p_120_114_75_22_0.50_1.20_0.00_jpeg_srz"
 name: "Dr. Francisco Maturana Miranda"
-copy: "Investigador, Instituto Chileno de Estudios Municipales ICHEM, Universidad Autónoma de Chile. Profesor Part-time: Universidad Alberto Hurtado. <br><b>Mis áreas de interés</b>: sistemas de ciudades, ciudades intermedias, difusión espacial, evolución funcional de los centros urbanos"
+copy: "Investigador, Instituto Chileno de Estudios Municipales ICHEM, Universidad Autónoma de Chile. Profesor Part-time: Universidad Alberto Hurtado. <i class="fa fa-check-circle"></i> <br><b>Mis áreas de interés</b>: sistemas de ciudades, ciudades intermedias, difusión espacial, evolución funcional de los centros urbanos"
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
