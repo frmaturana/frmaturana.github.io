@@ -4,7 +4,7 @@ demo: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://avatars3.githubusercontent.com/u/13630467?v=3&s=460"
+photo: "http://fmaturana.cl/images/avatar.jpg"
 name: "Dr. Francisco Maturana Miranda"
 copy: "<b>Investigador Responsable Proyecto Fondecyt Iniciación N° 11150087 (2015-2018): Transición hacia nuevos espacios metropolitanos. Análisis comparado entre Temuco, Valdivia y
 Puerto Montt</b>. <br>Investigador Instituto Chileno de Estudios Municipales. Profesor Part-time: U. Alberto Hurtado. <br><b>Áreas de interés</b>: sistemas de ciudades y su evolución funcional, metropolización."
