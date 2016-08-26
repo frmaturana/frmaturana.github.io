@@ -69,9 +69,10 @@
           </div>
         {% endfor %}
         </div>
-         <div class="row row-centered">
+         <div class="row">
+          <div class="center-block">
          {% for postdata in site.categories.posts reversed %}
-          <div class="col-sm-3 col-centered">
+          <div class="col-sm-3">
             <div class="panel panel-default">
               <div class="panel-heading">
                 <h3 class="panel-title">{{ postdata.type }}</h3>
@@ -98,6 +99,7 @@
                   </p>
                 {% endif %}
                 {{ postdata.content }}
+                </div>
               </div>
             </div>
           </div>
