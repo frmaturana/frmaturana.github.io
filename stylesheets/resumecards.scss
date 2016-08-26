@@ -222,6 +222,15 @@ a {
   }
 }
 
+.row-center {
+  text-align:center;
+}
+
+.col-center {
+  display:inline-block;
+  float:none;
+}
+
 .panel-heading {
   height: 42px;
   overflow: hidden;
