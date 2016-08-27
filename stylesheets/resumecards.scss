@@ -237,7 +237,7 @@ a {
 }
 
 .panel-title {
-  font-size: $font-size-base - 4;
+  font-size: $font-size-base - 20;
   text-transform: uppercase;
   letter-spacing: 1px;
   text-align: center;
@@ -250,7 +250,7 @@ a {
 
 .panel-body-mini {
   padding:35px;
-  height: 100px;
+  height: 120px;
   overflow: hidden;
   text-align: center;
 }
