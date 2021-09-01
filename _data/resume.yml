@@ -6,13 +6,13 @@ demo: false
 
 photo: "http://fmaturana.cl/images/fmaturana.png"
 name: "Dr. Francisco Maturana Miranda"
-copy: "Profesor Asociado, Instituto de Ciencias de la Tierra, Universidad Austral de Chile.
+copy: "<b>Profesor Asociado<b>, Instituto de Ciencias de la Tierra, Universidad Austral de Chile.
 <br>
-Director Escuela de Geografía, Universidad Austral de Chile (agosto del 2021 a la fecha). 
+<b> Director Escuela de Geografía </b>, Universidad Austral de Chile (agosto del 2021 a la fecha). 
 <br>
 <b>Áreas de interés</b>: Sistemas de ciudades y evolución funcional, urbanización, metropolización, ciudades medias/intermedias. 
 <br> 
-<b> Participación en proyectos: Investigador responsable Fondecyt Iniciación N° 11150087 (finalizado). Coinvestigador Fondecyt Regular N° 1190874 (activo) y N° 1161280 (finalizado), Director alterno e investigador FONDEF IDeA I+D ID18I10284 (finalizada 09-21) </b>."
+<b> Participación en proyectos </b>: Investigador responsable Fondecyt Iniciación N° 11150087 (finalizado). Coinvestigador Fondecyt Regular N° 1190874 (activo) y N° 1161280 (finalizado), Director alterno e investigador FONDEF IDeA I+D ID18I10284 (finalizada 09-21)."
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
 # - default
